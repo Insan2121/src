@@ -11,7 +11,7 @@
   </outputs>
   <release seq="1">
     <structures fallback_to_low_resolution="true">
-      <!-- Badge for Kiwi Apps if Arc is enabled. -->
+      <!-- Badge for Bloom Apps if Arc is enabled. -->
       <structure type="chrome_scaled_image" name="IDR_ARC_DUAL_ICON_BADGE" file="arc/dual-icon-badge.png" />
 
       <!-- Default user profile images. -->
@@ -43,7 +43,7 @@
       <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_25" file="default_user_images/avatar_ganzania.png" />
       <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_26" file="default_user_images/avatar_jackrussellterrier.png" />
       <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_27" file="default_user_images/avatar_jellyfish.png" />
-      <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_28" file="default_user_images/avatar_kiwi.png" />
+      <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_28" file="default_user_images/avatar_bloom.png" />
       <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_29" file="default_user_images/avatar_penguin.png" />
       <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_30" file="default_user_images/avatar_rainbowfish.png" />
       <structure type="chrome_scaled_image" name="IDR_LOGIN_DEFAULT_USER_31" file="default_user_images/avatar_recordplayer.png" />

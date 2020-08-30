@@ -149,8 +149,8 @@
       <message name="IDS_LOGIN_DEFAULT_USER_DESC_27" desc="Description of the default user icon with a picture of a jellyfish">
         Jellyfish
       </message>
-      <message name="IDS_LOGIN_DEFAULT_USER_DESC_28" desc="Description of the default user icon with a picture of a kiwi (fruit)">
-        Kiwi
+      <message name="IDS_LOGIN_DEFAULT_USER_DESC_28" desc="Description of the default user icon with a picture of a bloom (fruit)">
+        Bloom
       </message>
       <message name="IDS_LOGIN_DEFAULT_USER_DESC_29" desc="Description of the default user icon with a picture of a penguin">
         Penguin
@@ -448,20 +448,20 @@
       </message>
 
       <!-- Generic device type names -->
-      <message name="IDS_CHROMEBASE_DEVICE_NAME" desc="The device name for a Kiwibase (versus say Kiwibox)">
-        Kiwibase
+      <message name="IDS_CHROMEBASE_DEVICE_NAME" desc="The device name for a Bloombase (versus say Bloombox)">
+        Bloombase
       </message>
-      <message name="IDS_CHROMEBIT_DEVICE_NAME" desc="The device name for a Kiwibit (versus say Kiwibox)">
-        Kiwibit
+      <message name="IDS_CHROMEBIT_DEVICE_NAME" desc="The device name for a Bloombit (versus say Bloombox)">
+        Bloombit
       </message>
-      <message name="IDS_CHROMEBOOK_DEVICE_NAME" desc="The device name for a Kiwibook (versus say Kiwibox)">
-        Kiwibook
+      <message name="IDS_CHROMEBOOK_DEVICE_NAME" desc="The device name for a Bloombook (versus say Bloombox)">
+        Bloombook
       </message>
-      <message name="IDS_CHROMEBOX_DEVICE_NAME" desc="The device name for a Kiwibox (versus say Kiwibook)">
-        Kiwibox
+      <message name="IDS_CHROMEBOX_DEVICE_NAME" desc="The device name for a Bloombox (versus say Bloombook)">
+        Bloombox
       </message>
-      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME" desc="The device name for a generic Kiwi device">
-        Kiwi device
+      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME" desc="The device name for a generic Bloom device">
+        Bloom device
       </message>
 
       <!-- Input method strings. -->
